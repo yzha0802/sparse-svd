@@ -1,1 +1,1 @@
-# sparse-svd
+This is the final project for STATS 663 at Duke University. We (Yan Zhao and Rui Wang) implement sparse singular value decomposition algorithm and pack it into a package 'biclustersvd'. You can install it through !pip install git+git://github.com/yzha0802/bicluster.git. Also, we optimize this algorithim and apply this algorithim on both simulation dataset and lung cancer dataset.c
