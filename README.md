@@ -12,7 +12,7 @@ We use JIT, multiprocess and ipyParallel to optimize original python code
 
 ## lung cancer data plot.ipynb
 
-We use ssvd algorithim on real lung cancer data stored in lung cancer data.txt to visuallize how this algorithim identify co－regulated genes for differnt cancer types.
+We use ssvd algorithim on real lung cancer data stored in lung cancer data.txt to visuallize how this algorithim identify co－regulated genes for different cancer types.
 
 ## Simulation.ipynb
 
